@@ -8,7 +8,7 @@ body {
     font-size: 18px;
     font-weight: 400;
     overflow-x: hidden;
-    color: #707172;
+    color: #e5e8eb;
     background-color: rgb(136, 145, 157);
 }
 
@@ -34,7 +34,7 @@ a {
 }
 
 .tm-color-gray {
-    color: #333;
+    color: rgb(230, 229, 229);
 }
 
 .tm-bg-black-transparent {
@@ -231,7 +231,7 @@ a {
 }
 
 .tm-footer-link {
-    color: rgb(14, 13, 13);
+    color: rgb(243, 242, 242);
 }
 
 .tm-footer-link:hover {
@@ -515,21 +515,6 @@ figure.effect-bubba:hover p {
     height: 120px;
 }
 
-.tm-contact-form-wrap {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.tm-contact-form {
-    max-width: 305px;
-    width: 100%;
-}
-
-.form-group {
-    margin-bottom: 40px;
-}
-
 .tm-btn-primary {
     color: #707172;
     border-bottom: 1px solid #cdcecf;
@@ -560,11 +545,6 @@ figure.effect-bubba:hover p {
 .tm-btn-primary:hover:after,
 .tm-btn-primary:active:after {
     height: 100%;
-}
-
-.form-control:focus {
-    outline: none;
-    box-shadow: none;
 }
 
 @media (max-width: 1600px) {
