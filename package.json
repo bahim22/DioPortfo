@@ -1,13 +1,29 @@
 {
-    "devDependencies": {
-        "snowpack": "^2.18.5"
-    },
-    "dependencies": {
-        "react": "^17.0.2",
-        "react-dom": "^17.0.2"
-    },
-    "scripts": {
-        "start": "snowpack dev",
-        "build": "snowpack build"
-    }
+  "devDependencies": {
+    "snowpack": "^2.18.5"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "terser": "^5.10.0"
+  },
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "name": "dioportfo",
+  "description": "Portfolio site 2.1\r Adding links to other projects once production ready.\r Will continue to add to base site.",
+  "version": "1.0.0",
+  "main": "snowpack.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahim22/DioPortfo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bahim22/DioPortfo/issues"
+  },
+  "homepage": "https://github.com/bahim22/DioPortfo#readme"
 }

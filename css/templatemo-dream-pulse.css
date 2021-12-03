@@ -1,15 +1,10 @@
-/*
-https://templatemo.com/tm-536-dream-pulse
-
-*/
-
 body {
-    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, Helvetica, sans-serif;
     font-size: 18px;
     font-weight: 400;
     overflow-x: hidden;
     color: #000000;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(226, 205, 166);
 }
 
 p {
